@@ -1,0 +1,3 @@
+[submodule "cbpc-pik"]
+	path = cbpc-pik
+	url = git@github.com:josipknezovic/cbpc-pik.git
